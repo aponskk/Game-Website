@@ -14,4 +14,6 @@
 Интерфейс веб сайта(только малая часть):  
 ![Снимок экрана 2025-05-14 191927](https://github.com/user-attachments/assets/3408a04f-f603-4c6d-b146-c4fb56dd6811)  
 ![Снимок экрана 2025-05-14 192105](https://github.com/user-attachments/assets/b2209930-13b6-4f11-8897-a304e8387cd1)  
+![image](https://github.com/user-attachments/assets/f41167c3-200a-4ad4-9b74-8c69c8e535c6)
+
 ![Снимок экрана 2025-05-14 192004](https://github.com/user-attachments/assets/68e45abf-dcc1-40d0-95ce-75b8b142d0fe)  
